@@ -4,49 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "b86cb850cd02faeb",
+        "id": "aa5c0a944b831919",
         "type": "tabs",
         "children": [
           {
-            "id": "650c763c5d9f4c4b",
+            "id": "4b5f2152f60447d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The c proggramming lenguage/Tipos de datos.md",
+                "file": "The c proggramming lenguage/Capitulo 1  operadores y expresiones/Operadores y expresiones.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tipos de datos"
-            }
-          },
-          {
-            "id": "f1a4e39e85c9f2d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The c proggramming lenguage/Introducción.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Introducción"
-            }
-          },
-          {
-            "id": "cf474832e4de37b8",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Operadores y expresiones"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,15 +165,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "41273ec90aa380ed",
+  "active": "4b5f2152f60447d1",
   "lastOpenFiles": [
-    "Grokking Algorithms",
-    "The c proggramming lenguage/Introducción.md",
-    "The c proggramming lenguage/The c programming lenguage.md",
-    "The c proggramming lenguage/Tipos de datos.md",
-    "The c proggramming lenguage/Operadores y expresiones.md",
-    "The c proggramming lenguage/Control de flujo.md",
+    "The c proggramming lenguage/Capitulo 1  operadores y expresiones/Tipos de datos.md",
+    "The c proggramming lenguage/Capitulo 7 unix/Capitulo 7 apendice b/Libreria estandar/<Math.h>.md",
+    "The c proggramming lenguage/Capitulo 1  operadores y expresiones/Converción de tipos.md",
+    "The c proggramming lenguage/Capitulo 1  operadores y expresiones/Operadores y expresiones.md",
+    "The c proggramming lenguage/Capitulo 1  operadores y expresiones/Declaraciones.md",
+    "The c proggramming lenguage/Capitulo 7 unix/Capitulo 7 apendice b/Libreria estandar",
+    "The c proggramming lenguage/Capitulo 1  operadores y expresiones/Capitulo 1 Operadores, expresiones, tipos y operadores.md",
+    "The c proggramming lenguage/Capitulo 7 unix/Capitulo 7 apendice b/Atoi().md",
+    "The c proggramming lenguage/Capitulo 7 unix/Capitulo 7 apendice b/Libreria estandar/<stdlib.h>.md",
+    "The c proggramming lenguage/Capitulo 7 unix/Capitulo 7 apendice b/Libreria estandar.md",
+    "The c proggramming lenguage/Capitulo 7 unix/Capitulo 7 unix.md",
+    "Libros de programación/The c programming lenguage.md",
     "Base de datos de libros.md",
-    "The c proggramming lenguage"
+    "The c proggramming lenguage/Capitulo 7 unix/La interfaz del sistema UNIX.md",
+    "The c proggramming lenguage/Capitulo 6 entrada y salida/Capitulo 6 entrada y salida.md",
+    "The c proggramming lenguage/Capitulo 5 estructuras/Capitulo 5 estructuras.md",
+    "The c proggramming lenguage/Capitulo 4 punteros/CApitulo 4 punteros.md",
+    "The c proggramming lenguage/Capitulo 3 funciones/Capitulo 3 funciones.md",
+    "The c proggramming lenguage/Capitulo 2 Control de flujo/Capitulo 2 control de flujo.md",
+    "The c proggramming lenguage/Introducción.md",
+    "The c proggramming lenguage/Capitulo 8 manual/Capitulo 8 manual.md",
+    "The c proggramming lenguage/Capitulo 4 punteros/Punteros y arrays.md",
+    "The c proggramming lenguage/Capitulo 1  operadores y expresiones/Capitulo 1-2 Operadores",
+    "The c proggramming lenguage/Capitulo 1  operadores y expresiones/Capitulo 1-1 tipos de datos",
+    "Libros de programación/Algoritmos Grokking.md",
+    "Libros de programación",
+    "The c proggramming lenguage/Capitulo 2 Control de flujo/Control de flujo.md",
+    "The c proggramming lenguage/Capitulo 7 unix/Capitulo 7 apendice b",
+    "The c proggramming lenguage/Capitulo 7 unix/Capitulo 7 Apendice A",
+    "The c proggramming lenguage/Capitulo 8 manual",
+    "The c proggramming lenguage/Capitulo 7 unix",
+    "The c proggramming lenguage/Capitulo 6 entrada y salida",
+    "The c proggramming lenguage/Capitulo 5 estructuras",
+    "The c proggramming lenguage/Capitulo 7 unix/Capitulo 7 Apendice A/Manual de referencia.md",
+    "The c proggramming lenguage/Capitulo 6 entrada y salida/Entrada y salida.md",
+    "The c proggramming lenguage/Capitulo 5 estructuras/Estructuras de datos.md"
   ]
 }
