@@ -11,10 +11,14 @@
             "id": "f6aa227b9c4661f8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Probabilidad y estadistica.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Probabilidad y estadistica"
             }
           }
         ]
