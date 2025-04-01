@@ -1,0 +1,4 @@
+# [[Teorica]]
+# [[Frecuencial]]
+# [[Axiotemica]]
+# [[Subjetiva]]

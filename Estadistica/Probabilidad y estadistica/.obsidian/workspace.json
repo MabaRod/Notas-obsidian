@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8f84bd6d4550f489",
+        "id": "e6a6cca6aaef15a5",
         "type": "tabs",
         "children": [
           {
-            "id": "f6aa227b9c4661f8",
+            "id": "382c98802127c92d",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -90,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Parcial 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Parcial 2"
             }
           },
           {
@@ -108,11 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Parcial 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Parcial 2"
             }
           },
           {
@@ -136,12 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Parcial 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Parcial 2"
             }
           }
         ]
@@ -161,9 +164,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f6aa227b9c4661f8",
+  "active": "382c98802127c92d",
   "lastOpenFiles": [
-    "MATERIAL Para Impresión PyE 25-1.pdf",
-    "Probabilidad y estadistica.md"
+    "Parcial 2.md",
+    "Probabilidad y estadistica.md",
+    "Herramientas.md",
+    "Reglas.md",
+    "Parcial 2/Definiciones.md",
+    "Parcial 2/Enfoques/clasificación o enfoques de la probabilidad.md",
+    "Parcial 2/Enfoques",
+    "Parcial 2/Enfoques/Axiotemica.md",
+    "Parcial 2",
+    "Parcial 2/Enfoques/Subjetiva.md",
+    "Parcial 2/Enfoques/Frecuencial.md",
+    "Parcial 2/Enfoques/Teorica.md",
+    "MATERIAL Para Impresión PyE 25-1.pdf"
   ]
 }
